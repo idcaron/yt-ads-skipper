@@ -8,6 +8,9 @@ It aggressively skips ads, provides a beautiful **Apple-style glass HUD**, keybo
 
 ---
 
+<img width="307" height="207" alt="image" src="https://github.com/user-attachments/assets/fc2255a6-aa1e-45d7-8864-68a3d0b6a658" />
+
+
 ## ✨ Features
 
 ✅ Aggressive YouTube ad skipping (pre-roll, mid-roll, overlay ads)
